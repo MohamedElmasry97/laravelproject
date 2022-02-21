@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "category_name": "Tobin Mertz",
+        "parent_id": null,
+        "created_at": "2022-02-21T20:39:21.000000Z",
+        "updated_at": "2022-02-21T20:39:21.000000Z",
+        "subcategories": [
+            {
+                "id": 4,
+                "category_name": "Reyes Pfeffer",
+                "parent_id": 1,
+                "created_at": "2022-02-21T20:39:22.000000Z",
+                "updated_at": "2022-02-21T20:39:22.000000Z",
+                "subcategories": [
+                    {
+                        "id": 5,
+                        "category_name": "George Shanahan",
+                        "parent_id": 4,
+                        "created_at": "2022-02-21T20:39:22.000000Z",
+                        "updated_at": "2022-02-21T20:39:22.000000Z",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 7,
+                        "category_name": "Ms. Shirley Vandervort",
+                        "parent_id": 4,
+                        "created_at": "2022-02-21T20:39:22.000000Z",
+                        "updated_at": "2022-02-21T20:39:22.000000Z",
+                        "subcategories": [
+                            {
+                                "id": 2,
+                                "category_name": "Mr. Grayson Lockman MD",
+                                "parent_id": 7,
+                                "created_at": "2022-02-21T20:39:22.000000Z",
+                                "updated_at": "2022-02-21T20:39:22.000000Z",
+                                "subcategories": []
+                            },
+                            {
+                                "id": 6,
+                                "category_name": "Jeffry Gerhold",
+                                "parent_id": 7,
+                                "created_at": "2022-02-21T20:39:22.000000Z",
+                                "updated_at": "2022-02-21T20:39:22.000000Z",
+                                "subcategories": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "category_name": "Forrest Schmitt",
+        "parent_id": null,
+        "created_at": "2022-02-21T20:39:22.000000Z",
+        "updated_at": "2022-02-21T20:39:22.000000Z",
+        "subcategories": [
+            {
+                "id": 3,
+                "category_name": "Eve Reichert Jr.",
+                "parent_id": 8,
+                "created_at": "2022-02-21T20:39:22.000000Z",
+                "updated_at": "2022-02-21T20:39:22.000000Z",
+                "subcategories": []
+            },
+            {
+                "id": 9,
+                "category_name": "Jeanne Turcotte",
+                "parent_id": 8,
+                "created_at": "2022-02-21T20:39:22.000000Z",
+                "updated_at": "2022-02-21T20:39:22.000000Z",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "category_name": "Corine Roob",
+        "parent_id": null,
+        "created_at": "2022-02-21T20:39:22.000000Z",
+        "updated_at": "2022-02-21T20:39:22.000000Z",
+        "subcategories": []
+    }
+]
